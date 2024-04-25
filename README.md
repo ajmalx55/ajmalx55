@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects based on ML
-- 📫 How to reach me syedajmalhussain@gmail.com
+- 📫 How to reach me syedajmalhussain55@gmail.com
 - 😄 Pronouns: Ajmal
 - ⚡ Fun fact: love night outs with friends
 
