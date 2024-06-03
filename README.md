@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajmalx55
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and web dev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects based on ML
 - 📫 How to reach me syedajmalhussain55@gmail.com
